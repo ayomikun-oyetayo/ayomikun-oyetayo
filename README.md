@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Oyetayo 👋
 
-<!--
-**ayomikun-oyetayo/ayomikun-oyetayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Science student exploring the intersection of technology, data, and business.
 
-Here are some ideas to get you started:
+My journey is centered around developing analytical thinking, problem-solving ability, and technical skills to solve meaningful real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I am building my foundation in:
+
+* SQL
+* Python
+* Power BI
+* Java
+* Software development principles
+
+My long-term interest lies in understanding systems, identifying opportunities, and using technology and data to create better business solutions.
+
+I believe tools are important, but the ability to think critically, understand problems, and communicate ideas is what turns knowledge into impact.
+
+### Current Focus
+
+🌱 Learning and building projects that strengthen my analytical and technical foundation.
+
+### Future Direction
+
+🚀 Growing towards business analysis, technology strategy, and solving complex problems.
